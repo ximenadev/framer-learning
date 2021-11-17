@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/framer-learning/static/css/main.0b63eb0a.chunk.css",
+    "main.css": "/framer-learning/static/css/main.db4cd97a.chunk.css",
     "main.js": "/framer-learning/static/js/main.8c7e8f57.chunk.js",
     "main.js.map": "/framer-learning/static/js/main.8c7e8f57.chunk.js.map",
     "runtime-main.js": "/framer-learning/static/js/runtime-main.6b973f4b.js",
@@ -8,15 +8,16 @@
     "static/js/2.3c5c3889.chunk.js": "/framer-learning/static/js/2.3c5c3889.chunk.js",
     "static/js/2.3c5c3889.chunk.js.map": "/framer-learning/static/js/2.3c5c3889.chunk.js.map",
     "index.html": "/framer-learning/index.html",
-    "precache-manifest.f75e8355172268ade8803e2bf48f2fc9.js": "/framer-learning/precache-manifest.f75e8355172268ade8803e2bf48f2fc9.js",
+    "precache-manifest.e51b8c4880009dbfb2123ebc053c954e.js": "/framer-learning/precache-manifest.e51b8c4880009dbfb2123ebc053c954e.js",
     "service-worker.js": "/framer-learning/service-worker.js",
-    "static/css/main.0b63eb0a.chunk.css.map": "/framer-learning/static/css/main.0b63eb0a.chunk.css.map",
-    "static/js/2.3c5c3889.chunk.js.LICENSE.txt": "/framer-learning/static/js/2.3c5c3889.chunk.js.LICENSE.txt"
+    "static/css/main.db4cd97a.chunk.css.map": "/framer-learning/static/css/main.db4cd97a.chunk.css.map",
+    "static/js/2.3c5c3889.chunk.js.LICENSE.txt": "/framer-learning/static/js/2.3c5c3889.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/framer-learning/static/media/Quicksand-Light.81813616.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.6b973f4b.js",
     "static/js/2.3c5c3889.chunk.js",
-    "static/css/main.0b63eb0a.chunk.css",
+    "static/css/main.db4cd97a.chunk.css",
     "static/js/main.8c7e8f57.chunk.js"
   ]
 }
