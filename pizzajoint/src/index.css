@@ -134,3 +134,11 @@ li span.active::before{
 .modal p {
   margin: 0;
 }
+
+.loader{
+  width: 10px;
+  height: 10px;
+  margin: 40px auto;
+  border-radius: 50%;
+  background: #fff;
+}
