@@ -27,8 +27,6 @@ function App() {
     setPizza({ ...pizza, toppings: newToppings });
   }
 
-  console.log(`showModal`, showModal)
-
   return (
     <>
       <Header />
